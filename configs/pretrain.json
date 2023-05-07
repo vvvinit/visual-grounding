@@ -1,0 +1,15 @@
+
+    {
+      "combine_datasets": ["flickr"],
+      "combine_datasets_val": ["flickr"],
+      "coco_path": "/home/vvvinit/Desktop/mdetr/train2014/",
+      "vg_img_path": "/home/vvvinit/Desktop/mdetr/images/",
+      "flickr_img_path": "/home/vvvinit/Desktop/mdetr/flickr30k-images/flickr30k-images/",
+      "refexp_ann_path": "/home/vvvinit/Desktop/mdetr/OpenSource/",
+      "flickr_ann_path": "/home/vvvinit/Desktop/mdetr/OpenSource/",
+      "gqa_ann_path": "/home/vvvinit/Desktop/mdetr/OpenSource/",
+      "num_queries": 100,
+      "refexp_dataset_name": "all",
+      "GT_type": "separate",
+      "flickr_dataset_path": "/home/vvvinit/Desktop/mdetr/annotations/Annotations/"
+  }
